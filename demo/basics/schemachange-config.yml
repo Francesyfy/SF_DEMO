@@ -1,7 +1,5 @@
 config-version: 1
 
-root-folder: "./demo/basics/2_test"
-
 vars:
   database_name: "{{env_var('SF_DATABASE')}}"
   schema_name: "basics"
